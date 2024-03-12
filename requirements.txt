@@ -1,0 +1,15 @@
+Anaconda 
+
+Pandas 
+
+Mathlib 
+
+Numpy 
+
+Ibpython Library 
+
+TWS Workstation 
+
+Interactive brokers account 
+
+DATA 
