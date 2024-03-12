@@ -8,8 +8,9 @@ Numpy
 
 Ibpython Library 
 
-TWS Workstation 
+TWS Workstation - https://www.interactivebrokers.com/en/trading/tws.php
 
 Interactive brokers account 
 
 DATA 
+
